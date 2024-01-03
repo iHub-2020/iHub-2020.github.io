@@ -73,5 +73,5 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 http://livetv.ktv.zone/60/play.m3u8
 #EXTINF:-1 tvg-id="CNNNews" tvg-name="CNNNews" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN USA (720p) [Geo-block]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/FASHIONTV.png" group-title="国际",Fashion TV
+#EXTINF:-1 tvg-id="fashionone" tvg-name="fashionone" tvg-logo="https://live.fanmingming.com/tv/fashionone.png" group-title="国际",Fashion One
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
