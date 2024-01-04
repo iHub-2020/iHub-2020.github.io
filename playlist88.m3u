@@ -47,21 +47,23 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000016791/1.m3u8?ch
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#邵氏电影
 http://epg.112114.xyz/douyu/4246519
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼-4332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼8号厅
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼-6140589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼9号厅
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼-8770422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼15号厅
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼-747764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼19号厅
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼-52787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼20号厅
 http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼-8814650
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼24号厅
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼25号厅
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼-263824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼28号厅
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼-323876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼44号厅
 http://epg.112114.xyz/douyu/323876
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
