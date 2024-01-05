@@ -28,7 +28,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVEYASIA" tvg-name="DISCOVEYASIA" tvg-logo="https://live.fanmingming.com/tv/Discovery-Asia.png" group-title="港澳台",探索亚洲
 http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-
+#EXTINF:-1 tvg-id="DISCOVEY科学" tvg-name="DISCOVEY科学" tvg-logo="https://live.fanmingming.com/tv/Discovery科学.png" group-title="港澳台",探索科学
+http://50.7.238.114:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/AnimalPlanet.png" group-title="港澳台",动物星球
 http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
@@ -80,6 +81,8 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC News (European feed) 
 http://livetv.ktv.zone/60/play.m3u8
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://live.fanmingming.com/tv/FOXNEWS.png" group-title="国际",FOX News 
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNNNews" tvg-name="CNNNews" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN USA (720p) [Geo-block]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="国际",Fashion TV
