@@ -51,8 +51,6 @@ http://211.103.180.178:8234/live_hls/hdmi.m3u8
 http://epg.112114.xyz/douyu/4246519
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼林正英厅
 http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼周星驰厅
-http://maomao.kandiantv.cn/douyu1.php?id=122402
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼经典港剧厅
 http://epg.112114.xyz/douyu/4549169
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼8号厅
