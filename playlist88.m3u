@@ -89,5 +89,5 @@ http://livetv.ktv.zone/60/play.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNNNews" tvg-name="CNNNews" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN USA (720p) [Geo-block]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="国际",Fashion TV
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="国际",HBO（高清无字幕）
+http://41.205.93.154/HBO/index.m3u8
