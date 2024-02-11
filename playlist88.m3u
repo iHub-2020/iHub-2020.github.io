@@ -75,6 +75,8 @@ http://epg.112114.xyz/douyu/52787
 http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼28号厅
 http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://live.fanmingming.com/tv/cinemax.png" group-title="港澳",CINEMAX
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -83,7 +85,7 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVB粤语片台" tvg-name="TVB粤语片台" tvg-logo="https://live.fanmingming.com/tv/TVBclassic.png" group-title="港澳",TVB粤语片台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153400
 
-#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC News (European feed) 
+#EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News 
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX News 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
