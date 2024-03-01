@@ -41,7 +41,7 @@ http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
 http://221.7.175.154:8445/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://live.fanmingming.com/tv/CNCartoon.png" group-title="港澳台",CN卡通台
-http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=754475
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼邵氏厅
 http://epg.112114.xyz/douyu/4246519
