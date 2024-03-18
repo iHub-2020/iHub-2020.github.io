@@ -73,7 +73,9 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVB粤语片台" tvg-name="TVB粤语片台" tvg-logo="https://live.fanmingming.com/tv/TVBclassic.png" group-title="港澳",TVB粤语片台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153400
 #EXTINF:-1 tvg-id="DISCOVERY科学" tvg-name="DISCOVERY科学" tvg-logo="https://live.fanmingming.com/tv/Discovery科学.png" group-title="港澳台",探索科学
-http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
+#EXTINF:-1 tvg-id="DISCOVERY科学" tvg-name="DISCOVERY科学-2" tvg-logo="https://live.fanmingming.com/tv/Discovery科学.png" group-title="港澳台",探索科学
+http://myott.top/stream/DT6QU63K5VX/146.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="野生星球" tvg-name="野生星球" tvg-logo="https://live.fanmingming.com/tv/AnimalPlanet.png" group-title="港澳台",野生星球
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 
