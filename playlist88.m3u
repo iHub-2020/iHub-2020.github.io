@@ -39,7 +39,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
-http://221.7.175.154:8445/tsfile/live/1016_1.m3u8
+http://116.128.243.121:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://live.fanmingming.com/tv/CNCartoon.png" group-title="港澳台",CN卡通台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=754475
 
