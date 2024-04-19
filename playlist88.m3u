@@ -79,7 +79,5 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNNNews" tvg-name="CNNNews" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN USA (720p) [Geo-block]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="国际",HBO原创（高清）
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="国际",HBO+（高清无字幕）
 http://170.254.18.106/HBO_PLUS/tracks-v1a1/mono.m3u8
