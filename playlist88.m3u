@@ -40,8 +40,8 @@ http://211.103.180.178:8234/live_hls/hdmi.m3u8
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
 http://116.128.243.121:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://live.fanmingming.com/tv/CNCartoon.png" group-title="港澳台",CN卡通台
-http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="港澳台",CN卡通台
+https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼邵氏厅
 http://epg.112114.xyz/douyu/4246519
@@ -73,7 +73,11 @@ https://z88.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8ff/index.m3
 #EXTINF:-1 tvg-id="TVB Drama" tvg-name="TVB Drama" tvg-logo="https://live.fanmingming.com/tv/TVBDdrama.png" group-title="港澳",TVB Drama
 https://z88.ubtvfans.com/live/rx3/1243/5e98788089087fb462ba17e122fd194f/index.m3u8
 
-#EXTINF:-1 tvg-id="野生星球" tvg-name="野生星球" tvg-logo="https://live.fanmingming.com/tv/AnimalPlanet.png" group-title="港澳台",野生星球
+#EXTINF:-1 tvg-id="DISCOVERY科学" tvg-name="DISCOVERY科学" tvg-logo="https://live.fanmingming.com/tv/Discovery科学.png" group-title="港澳台",探索科学
+https://z88.ubtvfans.com/live/rx1/343/1c96e35ab1e56f9d6c5ba0a2ff98e47e/index.m3u8
+#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/AnimalPlanet.png" group-title="港澳台",动物星球
+https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+#EXTINF:-1 tvg-id="野生星球" tvg-name="野生星球" tvg-logo="https://live.fanmingming.com/tv/WILD PLANET.png" group-title="港澳台",野生星球
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News(1080P)
@@ -86,5 +90,6 @@ https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a08
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNNNews" tvg-name="CNNNews" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN USA (720p) [Geo-block]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="国际",HBO+（高清无字幕）
 http://170.254.18.106/HBO_PLUS/tracks-v1a1/mono.m3u8
