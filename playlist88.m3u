@@ -76,7 +76,7 @@ https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News(1080P)
 https://d1kvlt93j1bc49.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/9868472f-373a-4b16-b009-5155965dcabf/5.m3u8
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News(720P)
-http://103.197.59.107:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News(720P)-2
 https://z88.ubtvfans.com/live/rx4/2962/7b62bc74cc61d6fa8e3e22e267d2c256/index.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png" group-title="国际",BLOOMBERG TV 
