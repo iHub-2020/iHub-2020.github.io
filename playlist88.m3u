@@ -39,7 +39,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="卫视",金鹰卡通
-http://116.128.243.121:9901/tsfile/live/1007_1.m3u8
+http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
 #EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/靖天卡通.png" group-title="港澳台",靖天卡通台
 https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u8
 
