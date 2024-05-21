@@ -46,21 +46,23 @@ https://z88.ubtvfans.com/live/rx1/344/f577021ae68af926ae8d3a80049e4541/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼邵氏厅
 http://maomao.kandiantv.cn/douyu1.php?id=4246519
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼林正英厅
-http://allinone.netsite.cc/douyu/218859
+http://epg.112114.xyz/douyu/218859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼粤语厅
+http://epg.112114.xyz/douyu/5033502
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼8号厅
-http://allinone.netsite.cc/douyu/4332
+http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼9号厅
-http://allinone.netsite.cc/douyu/6140589
+http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼15号厅
-http://allinone.netsite.cc/douyu/8770422
+http://epg.112114.xyz/douyu/8770422
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼19号厅
-http://allinone.netsite.cc/douyu/747764
+http://epg.112114.xyz/douyu/747764
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼20号厅
-http://allinone.netsite.cc/douyu/52787
+http://epg.112114.xyz/douyu/52787
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼24号厅
-http://allinone.netsite.cc/douyu/36337
+http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼28号厅
-http://allinone.netsite.cc/douyu/263824
+http://epg.112114.xyz/douyu/263824
 
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="港澳",TVB星河
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
