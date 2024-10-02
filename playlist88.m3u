@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
