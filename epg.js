@@ -1,5 +1,5 @@
 const Config = {
-    repository: 'live.reyan.com'
+    repository: 'live.imatic2024.site'
 };
 
 async function jq_fetch(request) {
