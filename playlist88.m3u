@@ -66,7 +66,7 @@ http://epg.112114.xyz/douyu/36337
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼28号厅
 http://epg.112114.xyz/douyu/263824
 
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/Discovery科学.png" group-title="港澳台",探索科学
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="港澳台",求索科学
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 #EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://live.fanmingming.com/tv/AnimalPlanet.png" group-title="港澳台",动物星球
 http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
