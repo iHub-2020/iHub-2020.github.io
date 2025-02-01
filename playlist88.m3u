@@ -77,5 +77,5 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a080.m3u8
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX News 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="CNNNews" tvg-name="CNNNews" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN USA (720p) [Geo-block]
+#EXTINF:-1 tvg-id="CNN国际新闻网络" tvg-name="CNN国际新闻网络" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN USA (720p) [Geo-block]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
