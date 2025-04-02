@@ -82,5 +82,7 @@ https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a08
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNN国际新闻网络" tvg-name="CNN国际新闻网络" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWORLDPREMIUM" tvg-logo="NHKWORLDPREMIUM" group-title="国际",NHK WORLD PREMIUM
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" tvg-logo="" group-title="国际",SKY SPORTS F1
 http://extraott.com:80/live/6772191932/1654508883/191464.m3u8
