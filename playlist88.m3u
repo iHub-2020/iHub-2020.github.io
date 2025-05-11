@@ -26,41 +26,41 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#扬州1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",扬州1
 http://ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#扬州2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",扬州2
 http://ott.mobaibox.com/PLTV/4/224/3221228338/index.m3u8?icpid=4&RTS=1663232460&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#扬州3
 http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8?icpid=4&RTS=1663232543&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
-#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="艺术",#书画频道
+
+#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="艺术",书画频道
 http://61.240.59.221:8085/rtp/226.0.2.102:8728
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://iptv-pro.github.io/logo/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="网络电视",#CHC动作电影
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="网络电视",CHC动作电影
 http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 
-#EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭电影.png" group-title="网络电视",#CHC家庭电影
+#EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭电影.png" group-title="网络电视",CHC家庭电影
 http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="网络电视",#CHC影迷电影
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="网络电视",CHC影迷电影
 http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 
-#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="网络电视",#美亚电影台
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="网络电视",美亚电影台
 http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 
-#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="网络电视",#龙祥时代
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="网络电视",龙祥时代
 http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",斗鱼金典卡通
-http://epg.112114.xyz/douyu/1487654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼邵氏厅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",斗鱼邵氏厅
 http://epg.112114.xyz/douyu/4246519
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼林正英厅
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",斗鱼林正英厅
 http://epg.112114.xyz/douyu/218859
 
 #EXTINF:-1 tvg-id="DISCOVERY科学频道" tvg-name="DISCOVERY科学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY科学.png" group-title="港澳台",Discovery 科学频道
