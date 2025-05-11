@@ -38,11 +38,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="艺术",#书画
 http://120.76.248.139/live/bfgd/4200000180.m3u8
 
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茶.png" group-title="艺术",#茶频道
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
-
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://iptv-pro.github.io/logo/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭电影.png" group-title="网络电视",#CHC家庭电影
+http://118.249.20.82:9999/udp/239.76.245.241:1234
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",斗鱼金典卡通
 http://epg.112114.xyz/douyu/1487654
@@ -50,24 +51,6 @@ http://epg.112114.xyz/douyu/1487654
 http://epg.112114.xyz/douyu/4246519
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼林正英厅
 http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼2号厅
-http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼7号厅
-http://diyp.112114.xyz/douyu/74374
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼8号厅
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼9号厅
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼15号厅
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼19号厅
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼20号厅
-http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼24号厅
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络电视",#斗鱼28号厅
-http://epg.112114.xyz/douyu/263824
 
 #EXTINF:-1 tvg-id="DISCOVERY科学频道" tvg-name="DISCOVERY科学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY科学.png" group-title="港澳台",Discovery 科学频道
 http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
