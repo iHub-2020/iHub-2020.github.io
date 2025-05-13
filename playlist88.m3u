@@ -57,9 +57,6 @@ http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=1
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="网络电视",美亞電影台
 http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 
-#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="网络电视",龍祥時代
-http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=525f1c9e0b438304ca9f31eb061c4710
-
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="网络电视",龍華電影
 http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 
