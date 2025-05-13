@@ -63,7 +63,7 @@ http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="网络电视",龍華戲劇
 http://198.16.100.186:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
 
-http:#EXTINF:-1 tvg-id="AXNTAIWAN" tvg-name="AXNTAIWAN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="网络电视",AXNTAIWAN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="网络电视",AXN
 http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 
 #EXTINF:-1 tvg-id="DISCOVERY科学频道" tvg-name="DISCOVERY科学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY科学.png" group-title="港澳台",Discovery 科学频道
