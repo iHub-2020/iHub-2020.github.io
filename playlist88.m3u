@@ -46,10 +46,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 
 #EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭电影.png" group-title="网络电视",CHC家庭电影
-http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
+http://60.223.72.42:8002/rtp/226.0.2.240:9820
 
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="网络电视",CHC影迷电影
-http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
+http://175.22.226.131:888/hls/107/index.m3u8
 
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="网络电视",东森电影
 http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
