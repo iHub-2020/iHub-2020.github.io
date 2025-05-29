@@ -49,7 +49,7 @@ http://sh.lnott.top:880/dx100.m3u8
 http://sh.lnott.top:880/dx93.m3u8
 
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="网络电视",CHC影迷电影
-http://175.22.226.131:888/hls/107/index.m3u8
+http://sh.lnott.top:880/dx101.m3u8
 
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="网络电视",东森电影
 http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
