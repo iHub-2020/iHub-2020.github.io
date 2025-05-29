@@ -48,7 +48,7 @@ http://sh.lnott.top:880/dx100.m3u8
 #EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭电影.png" group-title="网络电视",CHC家庭电影
 http://sh.lnott.top:880/dx93.m3u8
 
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="网络电视",CHC影迷电影
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="网络电视",CHC影迷电影
 http://sh.lnott.top:880/dx101.m3u8
 
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="网络电视",东森电影
