@@ -74,7 +74,7 @@ http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=MF4F91916039919160
 
 #EXTINF:-1 tvg-id="BBCNEWSHD" tvg-name="BBCNEWSHD" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png" group-title="国际",BLOOMBERG TV 
+#EXTINF:-1 tvg-id="BLOOMBERGTELEVISION" tvg-name="BLOOMBERGTELEVISION" tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png" group-title="国际",BLOOMBERG TV 
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a080.m3u8
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX LiveNow
 https://jmp2.uk/sam-USBA300024TN.m3u8
