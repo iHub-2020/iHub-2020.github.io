@@ -76,7 +76,7 @@ http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=MF4F91916039919160
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERGTELEVISION" tvg-name="BLOOMBERGTELEVISION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="国际",BLOOMBERG TV 
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a080.m3u8
-#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOX LiveNow
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOX News
 https://stream1.freetv.fun/fox-news-channel-4.m3u8
 #EXTINF:-1 tvg-id="CNN國際新聞網絡" tvg-name="CNN國際新聞網絡" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN国际新闻.png" group-title="国际",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
