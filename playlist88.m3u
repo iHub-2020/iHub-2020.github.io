@@ -26,11 +26,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",扬州1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州1
 http://ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",扬州2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州2
 http://ott.mobaibox.com/PLTV/4/224/3221228338/index.m3u8?icpid=4&RTS=1663232460&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",扬州3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州3
 http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8?icpid=4&RTS=1663232543&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视",江苏卫视
@@ -66,19 +66,17 @@ http://198.16.100.186:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F279352442793524
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="网络电视",AXN
 http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 
-#EXTINF:-1 tvg-id="DISCOVERY科学频道" tvg-name="DISCOVERY科学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY科学.png" group-title="港澳台",Discovery 科学频道
-http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-
-#EXTINF:-1 tvg-id="动物星球频道" tvg-name="动物星球频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动物星球.png" group-title="港澳台",动物星球频道
-http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
-
 #EXTINF:-1 tvg-id="BBCNEWSHD" tvg-name="BBCNEWSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCNEWS.png" group-title="国际",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 #EXTINF:-1 tvg-id="BLOOMBERGTELEVISION" tvg-name="BLOOMBERGTELEVISION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="国际",BLOOMBERG TV 
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a080.m3u8
+
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOX News
 https://stream1.freetv.fun/fox-news-channel-4.m3u8
+
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN国际新闻.png" group-title="国际",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 tvg-id="NHKWORLDPREMIUM" tvg-name="NHKWORLDPREMIUM" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLDPREMIUM.png" group-title="国际",NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
