@@ -45,7 +45,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="网络电视",CHC动作电影
 http://sh.lnott.top:880/dx100.m3u8
 
-#EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭电影.png" group-title="网络电视",CHC家庭电影
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭电影.png" group-title="网络电视",CHC家庭电影
 http://sh.lnott.top:880/dx93.m3u8
 
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="网络电视",CHC影迷电影
