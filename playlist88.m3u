@@ -76,10 +76,10 @@ https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a08
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/962/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOX News
-https://stream1.freetv.fun/fox-news-channel-4.m3u8
+https://stream1.freetv.fun/090906dd35c9483466e007c6e7c762eb8b17ed8cd1fb05406dde7f19b13ee8f0.ctv
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN国际新闻.png" group-title="国际",CNN USA
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://stream1.freetv.fun/c438ad816ec58050264e5537ca46b84e30486bac1dcd60faa85490dc9aaa8d17.ctv
 
 #EXTINF:-1 tvg-id="NHKWORLDPREMIUM" tvg-name="NHKWORLDPREMIUM" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLDPREMIUM.png" group-title="国际",NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
