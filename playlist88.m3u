@@ -1,9 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV1HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV2HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV3HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227650/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV4HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227658/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV5HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227661/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV5+
+http://ott.js.chinamobile.com/PLTV/3/224/3221227714/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV6HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV7HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227642/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV8HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227667/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV9HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227659/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV10HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227717/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV11HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV12HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221227655/index.m3u8
+#EXTINF:-1 group-title="限江苏地区HEVC",CCTV13HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221225560/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1 综合
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
