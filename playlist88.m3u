@@ -40,12 +40,6 @@ http://120.76.248.139/live/bfgd/4200000180.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 
-#EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="网络电视",东森电影
-http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-
-#EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="网络电视",美亞電影台
-https://live.tvfix.org/live/mydy/index.m3u8
-
 #EXTINF:-1 tvg-id="BBCNEWSHD" tvg-name="BBCNEWSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCNEWS.png" group-title="国际",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
