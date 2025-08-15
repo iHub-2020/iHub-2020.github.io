@@ -1,46 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-rtp://239.3.1.129:8008
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-rtp://239.3.1.60:8084
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-rtp://239.3.1.172:8001
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-rtp://239.3.1.105:8092
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际欧洲
-rtp://239.3.1.213:4220
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际美洲
-rtp://239.3.1.214:4220
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-rtp://239.3.1.173:8001
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-rtp://239.3.1.130:8004
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-rtp://239.3.1.174:8001
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-rtp://239.3.1.61:8104
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-rtp://239.3.1.175:8001
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-rtp://239.3.1.62:8112
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-rtp://239.3.1.63:8116
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-rtp://239.3.1.152:8120
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-rtp://239.3.1.64:8124
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-rtp://239.3.1.124:8128
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 
@@ -75,38 +34,17 @@ http://ott.mobaibox.com/PLTV/4/224/3221228338/index.m3u8?icpid=4&RTS=1663232460&
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州3
 http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8?icpid=4&RTS=1663232543&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
-
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="艺术",书画频道
 http://120.76.248.139/live/bfgd/4200000180.m3u8
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="网络电视",CHC动作电影
-http://60.223.72.58:8001/rtp/226.0.2.94:8012
-
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭电影.png" group-title="网络电视",CHC家庭影院
-http://59.174.118.139:8888/rtp/239.69.1.243:11100
-
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="网络电视",CHC影迷电影
-http://sh.lnott.top:880/dx101.m3u8
-
 #EXTINF:-1 tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="网络电视",东森电影
 http://198.16.100.186:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="网络电视",美亞電影台
 https://live.tvfix.org/live/mydy/index.m3u8
-
-#EXTINF:-1 tvg-id="龙华电影HD" tvg-name="龙华电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="网络电视",龍華電影
-http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-
-#EXTINF:-1 tvg-id="龙华戏剧HD" tvg-name="龙华戏剧HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="网络电视",龍華戲劇
-http://198.16.100.186:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="网络电视",AXN
-http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 
 #EXTINF:-1 tvg-id="BBCNEWSHD" tvg-name="BBCNEWSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCNEWS.png" group-title="国际",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
