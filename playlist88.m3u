@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1 综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+http://api.kkitv.itv888.vip:8080/streams/f5fuln3kthe/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
@@ -19,13 +19,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
+http://api.kkitv.itv888.vip:8080/streams/og4kq4cnqm/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+https://stream1.freetv.fun/713f8c42d89efd6b0b31ab22e8070a22a6eb54790b31f6e8ebe511775c1309f5.ctv
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
+http://111.43.126.240:9003/hls/26/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州1
 http://ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -47,15 +47,15 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/d19434bf92d6af5a443ccf8af3c5a080.m3u8
 
 #EXTINF:-1 tvg-id="CNBCUSA" tvg-name="CNBCUSA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="国际",CNBC USA
-http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/962/index.m3u8
+hhttp://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/962/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOX News
 https://stream1.freetv.fun/488b3645d20109ccb2a413c52f285aa6f0cf26645bca7f626c9afe17be2d8bad.ctv
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="SKYSPORTSF1UK" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1.png" group-title="国际",SKY SPORTS F1 UK
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN国际新闻.png" group-title="国际",CNN USA
+#EXTINF:-1 tvg-id="SKYSPORTSF1UK" tvg-name="SKYSPORTSF1UK" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1UK.png" group-title="国际",SKY SPORTS F1 UK
 http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7342/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKWORLDPREMIUM" tvg-name="NHKWORLDPREMIUM" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLDPREMIUM.png" group-title="国际",NHK WORLD PREMIUM
