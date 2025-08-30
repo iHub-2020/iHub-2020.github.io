@@ -12,14 +12,14 @@ http://api.kkitv.itv888.vip:8080/streams/xsb4znrv3c/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视",CCTV-6 电影
 http://api.kkitv.itv888.vip:8080/streams/tp9ajk4od5/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视",CCTV-6 电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://api.kkitv.itv888.vip:8080/streams/vseo1nm7qp/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视",CCTV-9 纪录
 http://api.kkitv.itv888.vip:8080/streams/bsmkmf3jrp4/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视",CCTV-10 科教
-http://116.129.94.76:5003/cctv10.m3u8?token=7375646f797fd9e7fd7a485c2c89ce6a9c340470&z=1151
+http://116.129.94.76:5003/cctv10_mq9_13927.ts
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",CCTV-11 戏曲
 http://api.kkitv.itv888.vip:8080/streams/og4kq4cnqm/index.m3u8
