@@ -19,7 +19,7 @@ http://api.kkitv.itv888.vip:8080/streams/vseo1nm7qp/index.m3u8
 http://api.kkitv.itv888.vip:8080/streams/bsmkmf3jrp4/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视",CCTV-10 科教
-http://116.129.94.76:5003/cctv10_mq9_13927.ts
+http://116.129.94.76:5003/cctv10_mq9_13959.ts
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",CCTV-11 戏曲
 http://api.kkitv.itv888.vip:8080/streams/og4kq4cnqm/index.m3u8
