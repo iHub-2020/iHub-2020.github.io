@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1 综合
-http://api.kkitv.itv888.vip:8080/streams/f5fuln3kthe/index.m3u8
+http://117.158.166.73:5003/cctv1.m3u8?token=7375646f1a5f8a85da3e08332429aa8281478c7f&z=1151
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV-5 体育
 http://api.kkitv.itv888.vip:8080/streams/7vx0ia55les/index.m3u8
