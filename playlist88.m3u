@@ -28,7 +28,7 @@ http://api.kkitv.itv888.vip:8080/streams/og4kq4cnqm/index.m3u8
 http://118.249.196.244:8088/tsfile/live/0012_1.m3u8?key=txiptv
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://111.43.126.240:9003/hls/26/index.m3u8
+http://223.76.131.67:5003/cctv13.m3u8?token=7375646f17d9177172541df322b1fbdb112af5e5&z=1151
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州1
 http://ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
