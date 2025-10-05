@@ -61,7 +61,7 @@ http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="FOXNEWSCHANNEL" tvg-name="FOXNEWSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN国际新闻网络" tvg-name="CNN国际新闻网络" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",CNN
+#EXTINF:-1 tvg-id="CNNHD" tvg-name="CNNHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="SKYSPORTSF1UK" tvg-name="SKYSPORTSF1UK" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1UK.png" group-title="国际",SKY SPORTS F1 UK
