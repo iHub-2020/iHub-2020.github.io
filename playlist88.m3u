@@ -49,13 +49,13 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="BLOOMBERGTELEVISION" tvg-name="BLOOMBERGTELEVISION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="国际",BLOOMBERG TV 
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="国际",CNBC USA
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="国际",CNBC
 http://41.205.93.154/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXNEWSCHANNEL" tvg-name="FOXNEWSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXLIVE.png" group-title="国际",FOX LIVE
+#EXTINF:-1 tvg-id="FOXNEWSCHANNEL" tvg-name="FOXNEWSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN国际新闻网络" tvg-name="CNN国际新闻网络" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",CNN USA
+#EXTINF:-1 tvg-id="CNN国际新闻网络" tvg-name="CNN国际新闻网络" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="SKYSPORTSF1UK" tvg-name="SKYSPORTSF1UK" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1UK.png" group-title="国际",SKY SPORTS F1 UK
