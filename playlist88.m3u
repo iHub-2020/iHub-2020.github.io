@@ -22,10 +22,11 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-9-HQ/G_CCTV-9-HQ/
 http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://112.27.235.94:8000/hls/12/index.m3u8
+# http://112.27.235.94:8000/hls/12/index.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://112.27.235.94:8000/hls/13/index.m3u8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-12-HQ/G_CCTV-12-HQ/
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
