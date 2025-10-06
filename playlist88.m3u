@@ -60,9 +60,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://41.205.93.154/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXBUSINESS[US]" tvg-name="FOXBUSINESS[US]" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",FOX BUSINESS
-# http://41.205.93.154/FOXBUSINESS/index.m3u8
+http://41.205.93.154/FOXBUSINESS/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXBUSINESS[US]" tvg-name="FOXBUSINESS[US]" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOXNEWS
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOXNEWS
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 #EXTINF:-1 tvg-id="YahooFinance" tvg-name="YahooFinance" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/YahooFinance.png" group-title="国际",Yahoo! Finance
