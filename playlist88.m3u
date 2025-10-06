@@ -50,7 +50,7 @@ http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
 #EXTINF:-1 tvg-id="BBCNEWSHD" tvg-name="BBCNEWSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCNEWS.png" group-title="国际",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="BLOOMBERGTELEVISION" tvg-name="BLOOMBERGTELEVISION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="国际",BLOOMBERG TV 
+#EXTINF:-1 tvg-id="BLOOMBERGHD" tvg-name="BLOOMBERGHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="国际",BLOOMBERG TV 
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 #EXTINF:-1 tvg-id="CNNHD" tvg-name="CNNHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",CNN
