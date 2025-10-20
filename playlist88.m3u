@@ -42,9 +42,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8?icpid=4&RTS=1663232543&
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="艺术",书画频道
 http://120.76.248.139/live/bfgd/4200000180.m3u8
 
-#EXTINF:-1 tvg-name="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="娱乐",JJ斗地主
-http://106.53.99.30/tv/api.php?id=jj
-
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
 
@@ -57,9 +54,6 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="CNNHD" tvg-name="CNNHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="国际",CNBC
-http://41.205.93.154/CNBC/index.m3u8
-
 #EXTINF:-1 tvg-id="FOXBUSINESSHD" tvg-name="FOXBUSINESSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOX.png" group-title="国际",FOX BUSINESS
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 
@@ -71,6 +65,3 @@ https://yahoo-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHKWORLDPREMIUM" tvg-name="NHKWORLDPREMIUM" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLDPREMIUM.png" group-title="国际",NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-
-#EXTINF:-1 tvg-id="SKYSPORTSF1UK" tvg-name="SKYSPORTSF1UK" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1UK.png" group-title="国际",SKY SPORTS F1 UK
-http://cnlive.org/channel/n57ed90b2/index.m3u8
