@@ -33,9 +33,11 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州1
 # http://ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-https://yztv-wshls.homecdn.com/8bb.m3u8?&wsSession=76aeaafc7ec6de73f806f67e-176092544723226&wsIPSercert=ae84fe05652d8b008ca2981dd6d845c7
+# https://yztv-wshls.homecdn.com/8bb.m3u8?&wsSession=76aeaafc7ec6de73f806f67e-176092544723226&wsIPSercert=ae84fe05652d8b008ca2981dd6d845c7
+https://yztv-wshls.homecdn.com/8bb.m3u8?&wsSession=898678eb1bccdd11aeb17a3c-176170166646719&wsIPSercert=1f324e12ec3ba45bc51efb7c22ed371f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州2
-https://yztv-wshls.homecdn.com/8bd.m3u8?wsSession=765560befd0f1729855926d4-176128738898728&wsIPSercert=ae84fe05652d8b008ca2981dd6d845c7
+# https://yztv-wshls.homecdn.com/8bd.m3u8?wsSession=765560befd0f1729855926d4-176128738898728&wsIPSercert=ae84fe05652d8b008ca2981dd6d845c7
+https://yztv-wshls.homecdn.com/8bd.m3u8?&wsSession=334ad17a78f75a753b8f895c-176170138893536&wsIPSercert=1f324e12ec3ba45bc51efb7c22ed371f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州3
 http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8?icpid=4&RTS=1663232543&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 
