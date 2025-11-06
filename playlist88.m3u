@@ -56,8 +56,8 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="CNNHD" tvg-name="CNNHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="FOXBUSINESSHD" tvg-name="FOXBUSINESSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOX.png" group-title="国际",FOX BUSINESS
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 tvg-id="CNBCHD" tvg-name="CNBCHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="国际",CNBC UK
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 #EXTINF:-1 tvg-id="FOXNEWSCHANNELHD" tvg-name="FOXNEWSCHANNELHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="国际",FOXNEWS
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
