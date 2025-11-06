@@ -42,7 +42,7 @@ https://yztv-wshls.homecdn.com/8bd.m3u8?&wsSession=334ad17a78f75a753b8f895c-1761
 http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8?icpid=4&RTS=1663232543&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="艺术",书画频道
-http://120.76.248.139/live/bfgd/4200000180.m3u8
+http://183.191.138.146:8002/rtp/226.0.2.102:8728
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
