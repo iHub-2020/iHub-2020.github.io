@@ -67,3 +67,6 @@ https://yahoo-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHKWORLDPREMIUM" tvg-name="NHKWORLDPREMIUM" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLDPREMIUM.png" group-title="国际",NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 tvg-id="NHKWORLDJAPAN" tvg-name="NHKWORLDJAPAN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="国际",NHK WORLD JAPAN
+https://nhk.lls.pbs.org/index.m3u8
