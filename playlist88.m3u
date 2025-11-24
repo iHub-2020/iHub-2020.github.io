@@ -54,9 +54,6 @@ http://bxtv.3a.ink/api.php?id=meiya
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳台",翡翠台
 http://bxtv.3a.ink/api.php?id=fct
 
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳台",明珠台
-http://bxtv.3a.ink/api.php?id=mz
-
 #EXTINF:-1 tvg-id="BBCNEWSHD" tvg-name="BBCNEWSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCNEWS.png" group-title="国际",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
