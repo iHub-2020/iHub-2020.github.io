@@ -48,7 +48,17 @@ http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8?icpid=4&RTS=1663232543&
 http://183.191.138.146:8002/rtp/226.0.2.102:8728
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="卫视",金鹰卡通
-http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
+# http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
+https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
+
+#EXTINF:-1 tvg-name="美亞電影台" tvg-logo="http://bxtv.3a.ink/logo/美亚电影.png" group-title="港澳台",美亞電影台
+http://bxtv.3a.ink/api.php?id=meiya
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://bxtv.3a.ink/logo/翡翠.png" group-title="港澳台",翡翠台
+http://bxtv.3a.ink/api.php?id=fct
+
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://bxtv.3a.ink/logo/明珠.png" group-title="港澳台",明珠台
+http://bxtv.3a.ink/api.php?id=mz
 
 #EXTINF:-1 tvg-id="BBCNEWSHD" tvg-name="BBCNEWSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCNEWS.png" group-title="国际",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
