@@ -31,6 +31,9 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-12-HQ/G_CCTV-12-HQ/
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 
+#EXTINF:-1 tvg-id="未知电影" tvg-name="未知电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/未知电影.png" group-title="央视",未知电影
+http://ott.mobaibox.com/PLTV/4/224/3221228685/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州1
 http://ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 # https://yztv-wshls.homecdn.com/8bb.m3u8?&wsSession=76aeaafc7ec6de73f806f67e-176092544723226&wsIPSercert=ae84fe05652d8b008ca2981dd6d845c7
@@ -43,6 +46,9 @@ http://ott.mobaibox.com/PLTV/4/224/3221227867/index.m3u8?icpid=4&RTS=1663232543&
 
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="艺术",书画频道
 http://183.191.138.146:8002/rtp/226.0.2.102:8728
+
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学频道.png" group-title="艺术",国学频道
+http://ott.mobaibox.com/PLTV/4/224/3221228698/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
