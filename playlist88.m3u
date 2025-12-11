@@ -39,7 +39,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8?icpid=4&RTS=1663232543&
 
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="艺术",书画频道
 http://ott.mobaibox.com/PLTV/4/224/3221228574/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-# http://183.191.138.146:8002/rtp/226.0.2.102:8728
 
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="艺术",国学频道
 http://ott.mobaibox.com/PLTV/4/224/3221228698/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
