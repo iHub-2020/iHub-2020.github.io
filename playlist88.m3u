@@ -1,12 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1 综合
-http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-# http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV-5 体育
-http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-# http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
@@ -24,7 +22,6 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-9-HQ/G_CCTV-9-HQ/
 http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",CCTV-11 戏曲
-# http://112.27.235.94:8000/hls/12/index.m3u8
 http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视",CCTV-12 社会与法
@@ -32,9 +29,6 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-12-HQ/G_CCTV-12-HQ/
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://ott.mobaibox.com/PLTV/4/224/3221228924/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州1
 http://ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -56,9 +50,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8?icpid=4&RTS=1663232423&
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
 # https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
-
-#EXTINF:-1 tvg-id="晴彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="卫视",晴彩竞技 4K
-http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="港澳台",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
@@ -86,3 +77,15 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 
 #EXTINF:-1 tvg-id="NHKWORLDPREMIUM" tvg-name="NHKWORLDPREMIUM" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLDPREMIUM.png" group-title="国际",NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1 综合 4K
+http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV-5 体育 4k
+http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4k
+http://ott.mobaibox.com/PLTV/4/224/3221228924/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+
+#EXTINF:-1 tvg-id="晴彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="卫视",晴彩竞技 4K
+http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
