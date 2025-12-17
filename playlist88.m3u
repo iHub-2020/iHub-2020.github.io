@@ -47,7 +47,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228698/index.m3u8?icpid=4&RTS=1663232423&
 http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="卫视",金鹰卡通
-http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
+http://ott.mobaibox.com/PLTV/4/224/3221226303/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 # https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 
 #EXTINF:-1 tvg-id="JJ斗地主" tvg-name="JJ斗地主" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JJ斗地主.png" group-title="娱乐",JJ斗地主
