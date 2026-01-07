@@ -30,11 +30,11 @@ http://223.110.241.204:6610/gitv/live1/G_CCTV-12-HQ/G_CCTV-12-HQ/
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iHub-2020.github.io/扬州-新闻.png" group-title="地方台",扬州1
 http://ott.mobaibox.com/PLTV/4/224/3221228155/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方台",扬州2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iHub-2020.github.io/扬州-民生.png" group-title="地方台",扬州2
 http://ott.mobaibox.com/PLTV/4/224/3221228205/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="江都" tvg-name="江都" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江都.png" group-title="地方台",江都
+#EXTINF:-1 tvg-id="江都" tvg-name="江都" tvg-logo="https://iHub-2020.github.io/扬州-江都.png" group-title="地方台",江都
 http://ott.mobaibox.com/PLTV/4/224/3221228323/index.m3u8?icpid=4&RTS=1663232543&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/书画.png" group-title="艺术",书画频道
