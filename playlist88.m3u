@@ -83,6 +83,9 @@ https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 #EXTINF:-1 tvg-id="NHKWORLDPREMIUM" tvg-name="NHKWORLDPREMIUM" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLDPREMIUM.png" group-title="国际",NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERYSCIENCE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERYSCIENCE.png" group-title="国际",Discovery Science
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2595.ts
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV-1 综合 4K
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8?icpid=4&RTS=1663232423&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 
